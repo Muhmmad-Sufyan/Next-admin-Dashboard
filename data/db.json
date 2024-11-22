@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "role": "admin",
+      "name": "Hassam Idress",
+      "category": "Graphic Design"
+    },
+    {
+      "id": "78d6",
+      "email": "qwert@gmail.com",
+      "password": "1234",
+      "role": "instructor",
+      "name": "Sufyan jutt",
+      "category": "Web developer"
+    }
+  ],
+  "timecount": [
+    {
+      "id": "78d6",
+      "name": "Sufyan jutt",
+      "role": "instructor",
+      "checkInTime": "11/21/2024, 04:17 PM",
+      "checkOutTime": "11/21/2024, 04:17 PM",
+      "diffInHours": 0.0008544444444444445
+    }
+  ]
+}
