@@ -7,6 +7,10 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+    "build": "next build",
+  "serve": "next start",
+  "build:functions": "netlify-lambda build functions",
+  "build:all": "npm run build && npm run build:functions"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
