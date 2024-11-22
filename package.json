@@ -4,8 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "serve": "next start",
     "build:functions": "netlify-lambda build functions",
     "build:all": "npm run build && npm run build:functions"
   },
