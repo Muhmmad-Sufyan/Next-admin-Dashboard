@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev && node server.js",
     "build": "next build",
-    "start": "next start",
+   "start": "next start && node server.js",
     "lint": "next lint",
     "serve": "next start",
     "build:functions": "netlify-lambda build functions",
