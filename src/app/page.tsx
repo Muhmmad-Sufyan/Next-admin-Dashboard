@@ -10,6 +10,7 @@ interface User {
 }
 
 const Homepage = () => {
+  
   const [checkInTime, setCheckInTime] = useState<string>('');
   const [checkOutTime, setCheckOutTime] = useState<string>('');
   const [savedCheckInTime, setSavedCheckInTime] = useState<string | null>(null);

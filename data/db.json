@@ -7,14 +7,6 @@
       "role": "admin",
       "name": "Hassam Idress",
       "category": "Graphic Design"
-    },
-    {
-      "id": "78d6",
-      "email": "qwert@gmail.com",
-      "password": "1234",
-      "role": "instructor",
-      "name": "Sufyan jutt",
-      "category": "Web developer"
     }
   ],
   "timecount": [
